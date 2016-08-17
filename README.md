@@ -1,5 +1,7 @@
 # Ethereum Classic Web
 
+## Usage
+
 ### Develop
 
 1. Clone this repo
@@ -21,3 +23,10 @@
 Install [`gh-pages`](https://www.npmjs.com/package/gh-pages)
 
 1. `npm run deploy`
+
+## TODOs
+
+```
+- Favicon, Metadata
+- Internationalisation
+```
