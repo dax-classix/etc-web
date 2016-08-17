@@ -33,9 +33,9 @@ export default class Header extends Component {
           </h2>
           <a target="_blank" className="mui-btn" href="https://github.com/ethereumproject/go-ethereum/releases">Download Client</a>
           <a target="_blank" className="mui-btn" href="http://blocks.elaineou.com/">Explore the Chain</a>
-          <br /><br />
-          <SocialLinks />
           <PriceTicker />
+          <br />
+          <SocialLinks />
         </Container>
       </Container>
     )
